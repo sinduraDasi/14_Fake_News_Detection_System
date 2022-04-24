@@ -1,31 +1,3 @@
-# Mini-Project-2B
-TE IT Mini Project Sem VI. Students are supposed to upload project source code, project report, final presentation and Gantt chart. 
-Project Group leader is required to fork this repository and do follow steps as followed:
-
-1) Create a new folder by your group number and tittle of project in the format (Group no._ tittle of project) eg. 04_smart home
-
-2) Add the following things in your folder:
-
-a) Working source code with database backup (Zip file)
-
-b) Report soft copy(.pdf)
-
-d) mini project presentations (In both .pdf and .ppt)
-
-e) Published papers if any  (.pdf)
-
-f) project gantt chart
-
-g) All Reference Papers (.pdf)
-
-h) Industry project completion letter (if sponsored project) (.pdf)
-
-I) Include Read Me file with: 
-  (i)Title of project. 
-  (ii)Group Members. 
-  (iii)Brief Description about project implementation.
-
-
 #Fake News Detection
 
 
@@ -33,6 +5,8 @@ I) Include Read Me file with:
 1)Sindura Dasi
 2)Abdul Samad Ansari
 3)Ekta Gujar
+
+
 #Description:
 Fake News Detection in Python
 
@@ -40,5 +14,18 @@ In this project, we have used machine learning algorithms to classify fake news 
 
 #Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+#Prerequisites
+What things you need to install the software and how to install them:
+
+<li>Python 3.6</li>
+This setup requires that your machine has python 3.6 installed on it. you can refer to this url https://www.python.org/downloads/ to download python. Once you have python downloaded and installed, you will need to setup PATH variables (if you want to run python program directly, detail instructions are below in how to run software section). To do that check this: https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/.
+Setting up PATH variable is optional as you can also run program without it and more instruction are given below on this topic.
+Second and easier option is to download anaconda and use its anaconda prompt to run the commands. To install anaconda check this url https://www.anaconda.com/download/
+You will also need to download and install below 3 packages after you install either python or anaconda from the steps above
+Sklearn (scikit-learn)
+numpy
+scipy
+if you have chosen to install python 3.6 then run below commands in command prompt/terminal to install these packages
 
 
