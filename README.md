@@ -24,3 +24,21 @@ I) Include Read Me file with:
   (i)Title of project. 
   (ii)Group Members. 
   (iii)Brief Description about project implementation.
+
+
+#Fake News Detection
+
+
+#Group Members :
+1)Sindura Dasi
+2)Abdul Samad Ansari
+3)Ekta Gujar
+#Description:
+Fake News Detection in Python
+
+In this project, we have used machine learning algorithms to classify fake news articles using sci-kit libraries from python.
+
+#Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+
